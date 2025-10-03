@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.heading{font-size: 20px; }
+.heading{font-size: 35px; }
 .Author{
 	text-align: right;
 	font-style:italic
@@ -11,6 +11,6 @@
 }
 .container{
 	background-color:#f5f5f5;
-	padding:15px;
+	padding:50px;
 	margin:15px
 }
